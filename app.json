@@ -1,0 +1,73 @@
+{
+  "name": "MIKEY",
+  "description": "MIKEY-wa-bot-md",
+  "keywords": [],
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Entré la session id",
+      "required": true,
+      "value": ""
+    },
+    "HEROKU_API_KEY": {
+      "description": "Entré l'API_KEY ",
+      "required": true,
+      "value": ""
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Exact name which you gave at the top",
+      "required": true,
+      "value": ""
+    },
+    "WORKTYPE": {
+      "description": "entré le mode du bot public/private",
+      "required": true,
+      "value": "private"
+    },
+    "BOT_INFO": {
+      "description": "configuration du bot",
+      "required": true,
+      "value": "MIKEY-BOT-MD;MIKEY;https://telegra.ph/file/a3d880b99f51471dfb909.jpg"
+    },
+    "PREFIX": {
+      "description": "bot preifx  ., [.,!], false",
+      "required": true,
+      "value": "."
+    },
+    "AUDIO_DATA": {
+      "description": "audio metadata",
+      "required": true,
+      "value": "ᴍᴜꜱɪᴄ;ᴋɪᴅ;https://i.imgur.com/DyLAuEh.jpg"
+    },
+    "STICKER_DATA": {
+      "description": "MIKEY",
+      "required": true,
+      "value": "MIKEY;MIKEY"
+    },
+    "AUTO_STATUS_VIEW": {
+      "description": "regarde automatiquement les statuts ",
+      "required": false,
+      "value": "false"
+    },
+    "REJECT_CALL": {
+      "description": "Rejet automatique d'appel",
+      "required": false,
+      "value": "false"
+    },
+    "WARN": {
+      "description": "Nombre d'avertissement",
+      "required": false,
+      "value": "4"
+    },
+    "SUDO": {
+      "description": "secounds owners of bot",
+      "required": true,
+      "value": "null"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ]
+}
