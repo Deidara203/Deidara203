@@ -6,11 +6,11 @@
 
 1. Fork The Repo
     <br>
-<a href="https://github.com/inrl-official/inrl-bot-md/fork"><img title="MIKEY-MD" src="https://img.shields.io/badge/FORK MIKEY-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/inrl-official/MIKEY-bot-md/fork"><img title="MIKEY-MD" src="https://img.shields.io/badge/FORK MIKEY-MD-h?color=style=for-the-badge&logo=stackshare"></a>
 
 2. Scan Qr
     <br>
-<a href="https://inrl-web.onrender.com/viwe/friendpage"><img title="SCAN QR" src="https://img.shields.io/badge/SCAN QR CODE-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://inrl-web.onrender.com/viwe/friendpage"><img title="SCAN QR" src="https://img.shields.io/badge/SCAN QR CODE-h?color=style=for-the-badge&logo=msi"></a>
 
 
 
