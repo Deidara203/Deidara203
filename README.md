@@ -20,24 +20,24 @@
 
 #### Deploy To Heroku 
 
-<a href="https://inrl-web.onrender.com/deploy/heroku"><img title="MIKEY-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://inrl-web.onrender.com/deploy/heroku"><img title="MIKEY-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=blue&style=for-the-badge&logo=heroku"></a>
 
 
 ---
 #### Deploy To Railway
 
-<a href="https://inrl-web.onrender.com/info/deploy/railway"><img title="MIKEY-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+<a href="https://inrl-web.onrender.com/info/deploy/railway"><img title="MIKEY-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=blue&style=for-the-badge&logo=Railway"></a>
 
 
 ---
 #### Deploy To Koyeb
 
-<a href="https://inrl-web.onrender.com/info/deploy/koyeb"><img title="MIKEY-MD Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
+<a href="https://inrl-web.onrender.com/info/deploy/koyeb"><img title="MIKEY-MD Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=blue&style=for-the-badge&logo=koyeb"></a>
 
 ---
 #### Deploy To Replit
 
-<a href="https://replit.com/github/inrl-official/MIKEY-MD"><img title="MIKEY-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit.com/github/inrl-official/MIKEY-MD"><img title="MIKEY-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=blue&style=for-the-badge&logo=Replit"></a>
 
 ---
  ### Termux Guide
